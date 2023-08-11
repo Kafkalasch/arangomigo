@@ -1,4 +1,4 @@
-module github.com/deusdat/arangomigo
+module github.com/Kafkalasch/arangomigo
 
 go 1.19
 
